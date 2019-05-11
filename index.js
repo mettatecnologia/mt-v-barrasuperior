@@ -1,1 +1,1 @@
-Vue.component('jb-v-barrasuperior', require('./BarraSuperior.vue').default);
+Vue.component('jb-barrasuperior', require('./BarraSuperior.vue').default);

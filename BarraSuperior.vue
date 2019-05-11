@@ -1,4 +1,3 @@
-
 <template>
     <div>
         <v-toolbar :clipped-left="$vuetify.breakpoint.lgAndUp" :color="color" dark app fixed >
@@ -12,9 +11,9 @@
         </v-toolbar>
 
         <slot name="menu">
-            <menulateral-principal v-if="comMenu" v-model="abrir_menudrawer" :itens="JSON.parse(menuItens)" ></menulateral-principal>
+            <!-- <menulateral-principal v-if="comMenu" v-model="abrir_menudrawer" :itens="JSON.parse(menuItens)" ></menulateral-principal> -->
         </slot>
-        
+
     </div>
 </template>
 
