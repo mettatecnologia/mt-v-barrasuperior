@@ -1,6 +1,6 @@
 {
-  "name": "jb-v-barrasuperior",
-  "version": "1.0.0",
+  "name": "@metta/mt-v-barrasuperior",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbmchd/jb-v-barrasuperior.git"
+    "url": "git+https://github.com/mettatecnologia/mt-v-barrasuperior.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jbmchd/jb-v-barrasuperior/issues"
+    "url": "https://github.com/mettatecnologia/mt-v-barrasuperior/issues"
   },
-  "homepage": "https://github.com/jbmchd/jb-v-barrasuperior#readme"
+  "homepage": "https://github.com/mettatecnologia/mt-v-barrasuperior#readme"
 }
